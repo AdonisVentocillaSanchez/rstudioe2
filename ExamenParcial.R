@@ -33,6 +33,8 @@ str(datos)
 ########################
 #Exploración de datos
 hist(datos$suicides.100k.pop)
+hist(datos$suicides_no)
+hist(datos$population)
 
 install.packages("ggplot2")
 library(ggplot2)
@@ -41,3 +43,5 @@ ggplot(data=datos)+
 
 
 boxplot(datos$suicides.100k.pop)
+boxplot(datos$suicides_no)
+boxplot(datos$population)
