@@ -18,7 +18,7 @@ head(dbdiabetes)
 #Índice.de.masa.corporal: Representa el Índice.de.masa.corporal de cada uno de los usuarios
 #Función.de.pedigrí.de.la.diabetes: Nivel de pedigrí.de.la.diabetes del usuario
 #Edad: Edad de los usuarios
-#Resultado: Si un cliente es o no diabetico (1 = moroso y 0= no moroso)
+#Resultado: Si un cliente es o no diabetico (1 = diabetico y 0= no diabetico)
 
 
 #Observamos el tipo de datos
